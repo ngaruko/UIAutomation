@@ -1,0 +1,41 @@
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\Vbn.Ui.Framework.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\Vbn.Ui.Framework.pdb
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\nunit.framework.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\nunit.framework.xml
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.xml
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.pdb
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.csprojResolveAssemblyReference.cache
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\phantomjs.exe
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\chromedriver.exe
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\IEDriverServer.exe
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\phantomjs-license.txt
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\phantomjs.exe
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\IEDriverServer.exe
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\Vbn.Ui.Framework.dll.config
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\Vbn.Ui.Framework.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\Vbn.Ui.Framework.pdb
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\nunit.framework.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.Support.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\nunit.framework.xml
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.xml
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.Support.xml
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.csprojResolveAssemblyReference.cache
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.pdb
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.csprojResolveAssemblyReference.cache
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\phantomjs.exe
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\IEDriverServer.exe
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\nunit.framework.dll
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.dll
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.Support.dll
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\nunit.framework.xml
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.xml
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\bin\Debug\WebDriver.Support.xml
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.dll
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Framework\obj\Debug\Vbn.Ui.Framework.pdb

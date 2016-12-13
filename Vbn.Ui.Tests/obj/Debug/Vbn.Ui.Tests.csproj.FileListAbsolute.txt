@@ -1,0 +1,42 @@
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Tests.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Tests.pdb
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\nunit.framework.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Framework.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Framework.pdb
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\nunit.framework.xml
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.xml
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.pdb
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Tests.dll.config
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Specs.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Specs.pdb
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\App.config
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\phantomjs.exe
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\chromedriver.exe
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\IEDriverServer.exe
+C:\Users\bede.ngaruko\Documents\Visual Studio 2013\Projects\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\phantomjs-license.txt
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\phantomjs.exe
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\IEDriverServer.exe
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\TestDataFiles\LoginData.xlsx
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Tests.dll.config
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Tests.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Tests.pdb
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Excel.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Framework.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.Support.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Vbn.Ui.Framework.pdb
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\Excel.pdb
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.xml
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\bin\Debug\WebDriver.Support.xml
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.csprojResolveAssemblyReference.cache
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.dll
+C:\SVN\Testing\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.pdb
+C:\TestProjects\selenium\VbnUIAutomation\Vbn.Ui.Tests\obj\Debug\Vbn.Ui.Tests.csprojResolveAssemblyReference.cache
